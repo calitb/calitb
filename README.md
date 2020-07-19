@@ -2,7 +2,7 @@
 
 I am Carlos Thurber B. - Software Developer based in Panamá, with 10+ years experience in iOS development and 3.5+ years in Javascript/React. 
 
-![About me](./aboutMe.png)
+![About me](https://github.com/calitb/calitb/blob/master/aboutMe.png)
 
 - 💻 I’m currently working with NextJS and Contentful to build a blog / static site.
 - 📚 I’m currently learning VueJS and AWS.
