@@ -1,16 +1,14 @@
 https://carbon.now.sh
 
 const calitb = {
-  "Frameworks and Libraries": ["React", "Vue", "NextJS", "Node", "Apollo"],
+  "Frameworks and Libraries": ["ReactJS", "VueJS", "NextJS", "NodeJS", "Apollo"],
   "Mobile": ["iOS", "Android", "React Native"],
   "DevOps": ["Docker", "AWS"],
   "Languages": ["Typescript", "Swift", "ObjectiveC", "PHP", "Java"],
-  "Data": ["MySQL", "Oracle", "GraphQL", 
-           "Redux", "DynamoDB", "MongoDB", "Contentful"],
-  "Testing": ["Jest", "Jasmine"],
+  "Data": ["MySQL", "Oracle", "GraphQL", "Redux", "RecoilJS", "Contentful"],
+  "Testing": ["Jest", "Cypress"],
   "Documentation": ["Swagger"],
-  "Certifications": ["AWS Certified Developer - Associate",
-                     "Professional Scrum Master I", 
-                     "Oracle Certified Associate, Java SE 7 Programmer"],
-  "IDE": ["VSCode", "Xcode", "Android Studio", "Netbeans"]
+  "CI/CD": ["Github Workflow", "Jenkins", "AWS"],
+  "Certifications": ["AWS Certified Developer - Associate","Professional Scrum Master I", "Oracle Certified Associate, Java SE 7 Programmer"],
+  "IDE": ["VSCode", "Xcode", "Android Studio"]
 }
