@@ -17,5 +17,3 @@ I am Carlos Thurber B. - Software Developer based in Panamá, with 10+ years exp
 - PTYCards ([iOS](https://apps.apple.com/us/app/ptycards/id879916591)/[Android](https://play.google.com/store/apps/details?id=com.mindslab.ptycards.app&hl=en)). Built with ObjC/Swift in FrontEnd, and NodeJS in Backend.
 
 - Off the Grid Services apps - Customer ([iOS](https://apps.apple.com/us/app/off-the-grid-experience/id1499165033) / [Android](https://play.google.com/store/apps/details?id=com.offthegrid.guestapp&hl=en_US)) and Vendor ([iOS](https://apps.apple.com/us/app/off-the-grid-creator/id1489984825)/[Android](https://play.google.com/store/apps/details?id=com.offthegrid.creatorapp&hl=en_US)). Built with React-Native.
-
-- Terraformation Website - [https://terraformation.com](https://terraformation.com). Built with NextJS and Contentful GraphQL
