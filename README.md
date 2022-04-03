@@ -4,9 +4,9 @@ I am Carlos Thurber B. - Software Developer based in Panamá, with 10+ years exp
 
 ![About me](https://github.com/calitb/calitb/blob/master/aboutMe.png)
 
-- 💻 I’m currently working with React and Contentful to build a blog / static website and with React-Native to build mobile applications.
+- 💻 I’m currently working with Serverless Stack (SST) to build a backend, React for web application and with React-Native to build mobile applications.
 - 📚 I’m currently learning Python.
-- 💻 As my current personal project I am migrating my React+NodeJS app into a single NextJS codebase.
+- 💻 As my current personal project I am migrating my local server app into a Serverless Stack (SST).
 - 💬 Ask me about Javascript / Typescript, ReactJS / React Native, VueJS, Swift.
 - 📫 How to reach me: [Twitter](https://twitter.com/calitb), [LinkedIn](https://www.linkedin.com/in/calitb/).
 
